@@ -20,7 +20,7 @@ Duration = 5; -- how long the notification should in secounds
 })
 
 print "================UNANCHORED TO PLAYER LOADED================"
-print "================MADE BY TomQ#6764================"
+print "================EDITED BY MORPLES================"
 
 local heartbeat = game:GetService("RunService").Heartbeat
 spawn(function()
